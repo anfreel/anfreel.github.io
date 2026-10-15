@@ -1,8 +1,35 @@
-/* Alicia Freel — Academic Website Styling */
 
-/* Color palette — light mode */
-:root,
-html[data-theme="light"] {
+---
+---
+
+/* Academic Pages original theme imports */
+@import
+    "vendor/breakpoint/breakpoint",
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "include/mixins",
+    "vendor/susy/susy",
+    "layout/reset",
+    "layout/base",
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+    "layout/forms",
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar"
+;
+
+/* Alicia Freel — Custom Styling */
+
+/* Warm background and forest-green accents */
+html {
   --global-bg-color: #FAF9F6;
   --global-text-color: #303632;
   --global-link-color: #315D50;
@@ -10,37 +37,30 @@ html[data-theme="light"] {
   --global-link-color-visited: #315D50;
   --global-border-color: #E6E3DC;
   --global-footer-bg-color: #F1EFE9;
-  --global-masthead-link-color: #303632;
-  --global-masthead-link-color-hover: #315D50;
 }
 
-/* Refined typography */
+body {
+  background-color: #FAF9F6;
+  color: #303632;
+}
+
+/* Elegant typography */
 .page__title,
 .page__content h1,
 .page__content h2,
 .page__content h3 {
   font-family: Georgia, "Times New Roman", serif;
   letter-spacing: -0.025em;
-  line-height: 1.25;
-}
-
-.page__title {
-  font-size: 2.1em;
-  font-weight: 500;
-  margin-bottom: 1.2rem;
+  line-height: 1.3;
 }
 
 .page__content {
-  line-height: 1.85;
+  line-height: 1.8;
 }
 
-.page__content p {
-  margin-bottom: 1.5rem;
-}
-
-/* Navigation */
+/* Refined navigation */
 .masthead {
-  border-bottom: 1px solid var(--global-border-color);
+  border-bottom: 1px solid #E6E3DC;
 }
 
 .greedy-nav {
@@ -54,26 +74,15 @@ html[data-theme="light"] {
   box-shadow: none;
 }
 
-/* Sidebar */
-.author__bio {
-  line-height: 1.65;
-}
-
-/* Section headings */
+/* Research section headings */
 .page__content h2 {
   margin-top: 2.5rem;
   padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--global-border-color);
-}
-
-/* Links */
-.page__content a {
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
+  border-bottom: 1px solid #E6E3DC;
 }
 
 /* Footer */
 .page__footer {
   margin-top: 4rem;
-  border-top: 1px solid var(--global-border-color);
+  border-top: 1px solid #E6E3DC;
 }

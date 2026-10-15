@@ -23,7 +23,7 @@ repository               : "anfreel/anfreel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Alicia Freel"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Informatics at Indiana University Bloomington. Researching human–AI interaction, decision-making, and AI governance."

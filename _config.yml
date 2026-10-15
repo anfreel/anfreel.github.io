@@ -26,9 +26,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Alicia Freel"
   pronouns         : "she/her"  
-  bio              : "Ph.D. Candidate in Informatics | Indiana University Bloomington | Human–AI Interaction & Responsible AI"
-  location         : "United States"
-  employer         : "Indiana University"
+
+bio: "Ph.D. Candidate in Informatics | Human–AI Interaction, Decision-Making & AI Governance"
+location: "Bloomington, Indiana"
+employer: "Indiana University Bloomington"
+
   uri              : # URL
   email            : "anfreel@iu.edu" 
 

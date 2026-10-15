@@ -7,25 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
-I am a Ph.D. candidate in Informatics at Indiana University Bloomington, advised by Professor Apu Kapadia. My research lies at the intersection of human–AI interaction, decision-making, and technology governance.
+## About Me
 
-I investigate how artificial intelligence influences human judgment, particularly how people evaluate, trust, and respond to AI-generated recommendations. My work examines the role of interface design, social influence, and persuasive communication in shaping human–AI decision-making.
+I am a Ph.D. candidate in Informatics at Indiana University Bloomington, advised by Professor Apu Kapadia. My research examines how artificial intelligence influences human judgment, trust, and decision-making.
 
-More broadly, I am interested in how AI systems can be designed and governed to support informed human judgment, preserve autonomy, and promote accountability.
+I investigate how the design of AI systems shapes people's responses to algorithmic advice, particularly when AI recommendations conflict with their initial judgments. My work draws on human–computer interaction, cognitive science, and empirical methods to better understand the behavioral and ethical implications of AI-assisted decisions.
 
-My interdisciplinary background spans cognitive science, cybersecurity, and law. Alongside my doctoral research, I work as a Security Engineering Assessment Analyst at Northwestern Mutual, focusing on assessing and managing technological & vendor risks.
+Beyond human–AI interaction, I am interested in the legal and policy challenges surrounding AI governance, accountability, and responsible technology development.
 
-## Research Interests
+My interdisciplinary background includes graduate training in cybersecurity risk management, HCI, law, and business. Alongside my doctoral research, I work in cybersecurity as a Security Engineering Assessment Analyst at Northwestern Mutual, where I assess technological risks and translate security and regulatory requirements into practical risk management decisions. My undergraduate degree includes cognitive science (computer science cognate), with minors in human-computer interaction and business.
 
-- Human–AI Interaction and Decision-Making
-- Trust, Persuasion, and AI Advice
-- Human-Centered AI and Responsible AI Design
-- AI Governance, Accountability, and Technology Policy
-
-## Current Research
-
-My current research investigates how AI-generated advice and persuasive design influence human decision-making, including the ways communication strategies shape users' evaluations and responses.
-
-I am also interested in the legal and regulatory challenges associated with increasingly autonomous and interconnected AI systems.

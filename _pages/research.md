@@ -6,6 +6,7 @@ permalink: /research/
 author_profile: true
 ---
 
+
 My research examines how artificial intelligence influences human judgment and decision-making. I am particularly interested in how the design and presentation of AI-generated advice shape people's decisions, trust, and autonomy.
 
 ## Human–AI Decision-Making

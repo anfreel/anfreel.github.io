@@ -169,3 +169,12 @@ body {
 .page__footer {
   background-color: #FAF9F6 !important;
 }
+
+
+/* White navigation header, ivory page background */
+.masthead {
+  --global-bg-color: #FFFFFF;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E6E3DC;
+}
+

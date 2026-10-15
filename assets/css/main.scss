@@ -148,14 +148,24 @@ body {
 }
 
 
-/* Extend ivory background across the entire page */
-html,
-body {
-  background-color: #FAF9F6;
+
+/* Consistent ivory background across entire website */
+
+:root {
+  --global-bg-color: #FAF9F6;
+  --global-footer-bg-color: #FAF9F6;
+}
+
+html {
+  background-color: #FAF9F6 !important;
   min-height: 100%;
 }
 
 body {
+  background-color: #FAF9F6 !important;
   min-height: 100vh;
 }
 
+.page__footer {
+  background-color: #FAF9F6 !important;
+}

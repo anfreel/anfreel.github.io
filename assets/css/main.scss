@@ -85,3 +85,24 @@ body {
   margin-top: 4rem;
   border-top: 1px solid #E6E3DC;
 }
+
+/* Larger academic profile photograph */
+
+@media (min-width: 64em) {
+  .sidebar .author__avatar {
+    display: block;
+    width: 230px;
+    max-width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .sidebar .author__avatar img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #E3E8E5;
+    box-shadow: none;
+  }
+}
+

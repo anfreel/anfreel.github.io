@@ -128,3 +128,10 @@ body {
 .page__content h2 {
   border-bottom-color: #DDE6E2;
 }
+
+
+/* Hide footer follow and RSS links */
+.page__footer-follow {
+  display: none !important;
+}
+

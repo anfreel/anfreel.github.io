@@ -17,6 +17,10 @@ My publications span human–AI interaction, trust, decision-making, and the soc
 
 [DOI](https://doi.org/10.1145/3715275.3732187) | [PDF](https://privacy.luddy.indiana.edu/publications/FAccT_2025_preprint.pdf)
 
+## Manuscripts Under Review
+
+One manuscript examining human judgment and social influence in AI-assisted decision-making is currently under peer review.
+
 ## Workshop and Position Papers
 
 **The Influence of AI Personality on User Compliance and Ethical Behavior**

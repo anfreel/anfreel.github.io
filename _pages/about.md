@@ -16,5 +16,9 @@ I investigate how the design of AI systems shapes people's responses to algorith
 
 Beyond human–AI interaction, I am interested in the legal and policy challenges surrounding AI governance, accountability, and responsible technology development.
 
-My interdisciplinary background includes graduate training in cybersecurity risk management, HCI, law, and business. Alongside my doctoral research, I work in cybersecurity as a Security Engineering Assessment Analyst at Northwestern Mutual, where I assess technological risks and translate security and regulatory requirements into practical risk management decisions. My undergraduate degree includes cognitive science (computer science cognate), with minors in human-computer interaction and business.
+Alongside my doctoral research, I work in cybersecurity as a Security Engineering Assessment Analyst at Northwestern Mutual, where I assess technological risks and translate security and regulatory requirements into practical risk management decisions.
+
+My interdisciplinary background includes graduate training in cybersecurity risk management, HCI, law, and business. My undergraduate degree includes cognitive science (computer science cognate), with minors in human-computer interaction and business.
+
+
 

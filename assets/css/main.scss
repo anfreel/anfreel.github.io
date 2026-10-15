@@ -130,8 +130,21 @@ body {
 }
 
 
-/* Hide footer follow and RSS links */
-.page__footer-follow {
-  display: none !important;
+/* More compact academic content */
+.page__content {
+  line-height: 1.65;
 }
+
+/* Research section headings */
+.page__content h2 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.35rem;
+}
+
+/* Consistent paragraph spacing */
+.page__content p {
+  margin-bottom: 1rem;
+}
+
 

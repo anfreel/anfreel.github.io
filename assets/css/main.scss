@@ -106,3 +106,25 @@ body {
   }
 }
 
+
+/* Refined academic color accents */
+
+.page__content a,
+.author__urls a {
+  color: #356B70;
+}
+
+.page__content a:hover,
+.author__urls a:hover {
+  color: #23464F;
+}
+
+.page__title,
+.page__content h1,
+.page__content h2 {
+  color: #243C46;
+}
+
+.page__content h2 {
+  border-bottom-color: #DDE6E2;
+}

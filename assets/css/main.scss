@@ -1,38 +1,79 @@
----
----
+/* Alicia Freel — Academic Website Styling */
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+/* Color palette — light mode */
+:root,
+html[data-theme="light"] {
+  --global-bg-color: #FAF9F6;
+  --global-text-color: #303632;
+  --global-link-color: #315D50;
+  --global-link-color-hover: #193D32;
+  --global-link-color-visited: #315D50;
+  --global-border-color: #E6E3DC;
+  --global-footer-bg-color: #F1EFE9;
+  --global-masthead-link-color: #303632;
+  --global-masthead-link-color-hover: #315D50;
+}
 
-@import
-    "vendor/breakpoint/breakpoint",
+/* Refined typography */
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+}
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+.page__title {
+  font-size: 2.1em;
+  font-weight: 500;
+  margin-bottom: 1.2rem;
+}
 
-    "include/mixins",
-    "vendor/susy/susy",
+.page__content {
+  line-height: 1.85;
+}
 
-    "layout/reset",
-    "layout/base",
+.page__content p {
+  margin-bottom: 1.5rem;
+}
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+/* Navigation */
+.masthead {
+  border-bottom: 1px solid var(--global-border-color);
+}
 
-    "layout/forms",
+.greedy-nav {
+  background: transparent;
+}
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar"
-;
+/* Profile photograph */
+.author__avatar img {
+  border-radius: 12px;
+  border: 1px solid #E6E3DC;
+  box-shadow: none;
+}
+
+/* Sidebar */
+.author__bio {
+  line-height: 1.65;
+}
+
+/* Section headings */
+.page__content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+/* Links */
+.page__content a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* Footer */
+.page__footer {
+  margin-top: 4rem;
+  border-top: 1px solid var(--global-border-color);
+}

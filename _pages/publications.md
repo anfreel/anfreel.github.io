@@ -5,54 +5,58 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research investigates human–AI interaction, trust, decision-making, and the design of responsible AI systems.
+My publications span human–AI interaction, trust, decision-making, and the social and ethical implications of artificial intelligence. Full texts and preprints are linked where available.
 
 ## Peer-Reviewed Conference Publications
 
 **How Misclassification Severity and Timing Influence User Trust in AI Image Classification: User Perceptions of High- and Low-Stakes Contexts**
 
-**Freel, A.**, Pias, S. B. H., Sabanovic, S., & Kapadia, A. (2025).
+**Freel, A.**, Pias, S. B. H., Šabanović, S., & Kapadia, A. (2025).
 
 *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025).* Athens, Greece.
 
-## Workshop Publications
+[DOI](https://doi.org/10.1145/3715275.3732187) | [PDF](https://privacy.luddy.indiana.edu/publications/FAccT_2025_preprint.pdf)
+
+## Workshop and Position Papers
 
 **The Influence of AI Personality on User Compliance and Ethical Behavior**
 
-**Freel, A.**, Pias, S. B. H., Sabanovic, S., & Kapadia, A. (2025).
+**Freel, A.**, Pias, S. B. H., Šabanović, S., & Kapadia, A. (2025).
 
-*STAIG Workshop at ACM CHI 2025.* Yokohama, Japan.
+*STAIG Workshop, ACM CHI 2025.* Yokohama, Japan.
 
-**Examining Trust Erosion in Human-AI Collaboration: Unpacking the Impact of Severity and Timing of Misclassification**
+[PDF](https://chi-staig.github.io/papers/submission7.pdf)
 
-**Freel, A.**, Pias, S. B. H., Sabanovic, S., & Kapadia, A. (2024).
+**Examining Trust Erosion in Human-AI Collaboration: Unpacking the Impact of Severity and Timing of Misclassifications**
 
-*TREW Workshop at ACM CHI 2024.* Honolulu, Hawaii.
+**Freel, A.**, Pias, S. B. H., Šabanović, S., & Kapadia, A. (2024).
 
-**The Drawback of Insight: Detailed Explanations Can Reduce Agreement with Explainable Artificial Intelligence (XAI)**
+*Trust and Reliance in Evolving Human-AI Workflows (TREW), ACM CHI 2024.* Honolulu, Hawaii.
 
-Pias, S. B. H., Akter, T., **Freel, A.**, Williamson, D., Trammel, T., & Kapadia, A. (2024).
+[PDF](https://chi-trew.github.io/papers/2024/CHI_TREW_2024_Paper_7.pdf)
 
-*ACM CHI Workshop.* Honolulu, Hawaii.
+**The Drawback of Insight: Detailed Explanations Can Reduce Agreement with XAI**
 
-**Are Familiar Voices More Believable? Deepfake Technologies**
+Pias, S. B. H., **Freel, A.**, Trammel, T., Akter, T., Williamson, D., & Kapadia, A. (2024).
+
+*Human-Centered Explainable AI (HCXAI) Workshop, ACM CHI 2024.* Honolulu, Hawaii.
+
+[Preprint](https://arxiv.org/abs/2404.19629)
+
+**Are Familiar Voices More Believable?**
 
 Nawshin, S., **Freel, A.**, Kim, M., & Kapadia, A. (2024).
 
-*ACM CHI Workshop.* Honolulu, Hawaii.
+*Generative AI in User-Generated Content Workshop, ACM CHI 2024.* Honolulu, Hawaii.
 
-## Manuscripts Under Review
+[Workshop Abstract](https://genai-in-ugc.github.io/pdf/Are_Familiar_Voices_More_Belivable%20-%20Sabila%20Nawshin.pdf)
 
-**Human-First Does Not Mean Influence-Free: How Social Support Shapes Decisions After AI Disagreement**
-
-**Freel, A.**, Pias, S. B. H., McGraw, E., Sabanovic, S., & Kapadia, A. (2026).
-
-*Under review at ACM CHI 2027.*
-
-## Manuscripts in Preparation
+## Preprints
 
 **Building Trust Through Voice: How Vocal Tone Impacts User Perception of Attractiveness of Voice Assistants**
 
-Pias, S. B. H., **Freel, A.**, Huang, R., Williamson, D., Kim, M., & Kapadia, A.
+Pias, S. B. H., **Freel, A.**, Huang, R., Williamson, D., Kim, M., & Kapadia, A. (2024).
 
-*Manuscript in preparation.*
+*arXiv preprint.*
+
+[Preprint](https://arxiv.org/abs/2409.18941)

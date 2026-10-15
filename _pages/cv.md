@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
-My academic CV includes my education, research publications, presentations, professional experience, awards, and academic activities.
+My curriculum vitae provides a detailed overview of my academic training, research publications, conference presentations, professional experience, awards, and scholarly activities.
 
-[**Download my CV (PDF)**](/files/Alicia_Freel_CV.pdf)
+**[View or Download My Curriculum Vitae (PDF)](/files/Alicia_Freel_CV.pdf)**
+
+For a summary of my current research interests and projects, please visit my [Research](/research/) page.

@@ -178,3 +178,20 @@ body {
   border-bottom: 1px solid #E6E3DC;
 }
 
+
+/* White navigation header across all pages */
+.masthead,
+.masthead .masthead__inner-wrap,
+.masthead .greedy-nav,
+.masthead .masthead__menu-item,
+.masthead .greedy-nav button,
+.masthead .greedy-nav .hidden-links {
+  background: #FFFFFF !important;
+}
+
+/* Subtle separator between header and page */
+.masthead {
+  border-bottom: 1px solid #E6E3DC;
+}
+
+
